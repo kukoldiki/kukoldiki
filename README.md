@@ -1,0 +1,4 @@
+- **kuko**
+- Hi, im kuko.
+- I'm a beginner developer familiar with Kotlin, Java, C#, SQL (PostgreSQL), Python, and JavaScript.
+- And yeah, I know my code quality is not the best.
